@@ -1,13 +1,15 @@
 # --- RFP Agentic AI Demo ---
 # Simple version for beginners (runs directly in VS Code)
 
-from openai import OpenAI
+
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Step 1: Connect to OpenAI with your key
-client = OpenAI(api_key="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")
 
-# ---------- SALES AGENT ----------
-def sales_agent(rfp_text):
     """Summarizes the RFP and extracts requirements"""
     prompt = f"""
     You are a Sales Agent.
