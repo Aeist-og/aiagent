@@ -1,0 +1,4 @@
+RFP_ID,Company,RFP_Type,RFP_Text,Document,Product,Quantity,Deadline,Location
+RFP101,NTPC,Tender,"Supply of 500m 11kV XLPE Cable","RFP101.pdf","Cable",500,2025-11-25,Delhi
+RFP102,PowerGrid,Tender,"Supply of 200m 33kV PVC Cable","RFP102.pdf","Cable",200,2025-12-10,Mumbai
+RFP103,BHEL,Proposal,"Supply of 1000m 1.1kV PVC Cable with testing","RFP103.pdf","Cable",1000,2025-11-30,Hyderabad

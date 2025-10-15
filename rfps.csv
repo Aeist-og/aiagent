@@ -1,0 +1,57 @@
+RFP_ID,Company,RFP_Type,RFP_Text,Document,Product,Quantity,Deadline,Location,Status,Proposal
+5432,microsoft,tender,"400m electric fibre,",fff.pdf,electric cable,1,2025-10-12,surat,Proposal Sent,"1. **Product Required**: 400m electric fibre.  
+2. **Quantity**: 400 meters.  
+3. **Technical Specifications**: Not specified in the provided text.  
+4. **Testing / Acceptance Requirements**: Not specified in the provided text.
+
+Based on the RFP summary, we need to fulfill a request for ""400m electric fibre"". However, upon reviewing the product catalog provided, it contains the following SKUs:
+
+1. **SKU: CBL101** - 11kV Cable, Insulation: XLPE
+2. **SKU: CBL102** - 33kV Cable, Insulation: PVC
+3. **SKU: CBL103** - 1.1kV Cable, Insulation: PVC
+
+From the catalog, it's clear that all listed products are electrical cables (rated at different voltages) and do not specifically mention fibre optics or any product directly related to ""electric fibre"". 
+
+Since there is no SKU that matches the requirement of ""electric fibre"", I can't select a matching SKU based on the provided information. 
+
+If ""electric fibre"" refers to a type of electrical fiber optic cable, then none of the provided products are appropriate, as they are all standard electrical cables rather than fibre optic cables. However, if the RFP meant to refer to a certain type of electrical cable that could be used for fibre optic purposes, we would need more specific details to make a proper decision.
+
+Consequently, my conclusion is that **none of the listed SKUs** from the product catalog match the requirements stated in the RFP summary. Further clarification on what is meant by ""electric fibre"" is necessary to select the correct product.
+
+Based on the provided technical match and the conclusion that none of the listed products fulfill the requirement for ""400m electric fibre,"" it’s essential to summarize the situation in terms of pricing:
+
+### 1. Approx Product Price (INR)
+Since none of the SKUs listed (CBL101, CBL102, CBL103) correlate to ""electric fibre,"" we cannot assign a specific price. However, to provide context, if you were to consider standard pricing for the approximate equivalents in the electrical cable market (assuming a scenario where you are selecting a similar product), a rough estimate might be as follows:
+
+- **11kV Cable (CBL101)**: Approx INR 350-500 per meter
+- **33kV Cable (CBL102)**: Approx INR 450-700 per meter
+- **1.1kV Cable (CBL103)**: Approx INR 150-300 per meter
+
+For 400 meters:
+- **CBL101 (400m)**: INR 140,000 - 200,000
+- **CBL102 (400m)**: INR 180,000 - 280,000
+- **CBL103 (400m)**: INR 60,000 - 120,000
+
+This is purely hypothetical; in reality, you would need a proper match to provide a precise cost.
+
+### 2. Testing/Delivery Costs
+Testing and delivery costs can vary largely based on the supplier and type of cable, but typically you could consider:
+- **Testing Costs**: INR 5,000 - 15,000 (for quality assurance and testing protocols)
+- **Delivery Costs**: INR 10,000 - 20,000 (depending on location, logistics, and the company shipping the product)
+
+### 3. Total Cost Summary
+Since no suitable products were found, a total cost summary cannot be accurately calculated for the exact requirement of ""electric fibre."" However, if you were pursuing one of the above cables, you could create potential ranges:
+
+#### For CBL101 (as an example):
+- **Product Price (approx)**: INR 140,000 - 200,000
+- **Testing Costs**: INR 5,000 - 15,000
+- **Delivery Costs**: INR 10,000 - 20,000
+
+**Total Approx Cost**: 
+- **Low Estimate**: INR 155,000 
+- **High Estimate**: INR 235,000 
+
+### Conclusion
+A further clarification is necessary for what ""electric fibre"" means to provide accurate pricing and to correctly identify the appropriate SKU. Without additional information or specific SKUs that match the requirement, providing a more precise estimate remains challenging."
+RFP101,NTPC,Tender,Supply of 500m 11kV XLPE Cable,RFP101.pdf,Cable,500,2025-11-25,Delhi,Pending,
+RFP102,PowerGrid,Tender,Supply of 200m 33kV PVC Cable,RFP102.pdf,Cable,200,2025-12-10,Mumbai,Pending,
